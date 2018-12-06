@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<description>
+    <short>
+        First base version of short description
+    </short>
+
+    <short>
+        <intro>That is just indroduction to following...</intro>
+        <content>Second base version of short description</content>
+    </short>
+
+    <long><![CDATA[<p>First base version of long description</p> ]]></long>
+
+    <long>
+        <intro>That is just indroduction to following...</intro>
+        <content><![CDATA[<p>Second base version of long description</p> ]]></content>
+    </long>
+</description>e
